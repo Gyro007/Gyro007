@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello! I am Chin Howe!
 
-<!--
-**Gyro007/Gyro007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :open_book: I am a third year Economics student at the University of Warwick from Singapore
+- :desktop_computer: My interests are in data science, machine learning and neural computing
+- :email: You can contact me at [**chin.tsai@warwick.ac.uk**](chin.tsai@warwick.ac.uk)
+---
+### My GitHub Statistics
+![Chin Howe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyro007&layout=compact&theme=catppuccin_mocha)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Chin Howe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyro007&show_icons=true&theme=catppuccin_mocha)
+---
+### Languages and Tools :hammer_and_wrench:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="45" height="45" />
+</p>
