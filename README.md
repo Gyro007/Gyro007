@@ -6,9 +6,9 @@
 - :email: You can contact me at [**chin.tsai@warwick.ac.uk**](chin.tsai@warwick.ac.uk)
 ---
 ### My GitHub Statistics
-![Chin Howe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyro007&layout=compact&theme=tokyonight)
+![Chin Howe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyro007&layout=compact&theme=merko)
 
-![Chin Howe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyro007&show_icons=true&theme=catppuccin_tokyonight)
+![Chin Howe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyro007&show_icons=true&theme=catppuccin_merko)
 
 ---
 ### Languages and Tools :hammer_and_wrench:
