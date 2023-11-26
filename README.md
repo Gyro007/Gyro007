@@ -9,6 +9,7 @@
 ![Chin Howe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyro007&layout=compact&theme=tokyonight)
 
 ![Chin Howe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gyro007&show_icons=true&theme=catppuccin_tokyonight)
+
 ---
 ### Languages and Tools :hammer_and_wrench:
 <p align="left">
