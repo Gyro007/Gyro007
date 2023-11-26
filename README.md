@@ -1,7 +1,8 @@
 ### Hello! I am Chin Howe!
 
 ###  About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :open_book: I am a third year Economics student at the University of Warwick from Singapore
+- :singapore: I am from Singapore
+- :open_book: I am a third year Economics student at the University of Warwick in the United Kingdom
 - :desktop_computer: My interests are in data science, machine learning and neural computing
 - :email: You can contact me at [**chin.tsai@warwick.ac.uk**](chin.tsai@warwick.ac.uk)
 ---
