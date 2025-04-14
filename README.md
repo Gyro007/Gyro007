@@ -2,9 +2,9 @@
 
 ###  About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :singapore: I am from Singapore
-- :open_book: I am a third year Economics student at the University of Warwick in the United Kingdom
-- :desktop_computer: My interests are in data science, machine learning and neural computing
-- :email: You can contact me at [**chin.tsai@warwick.ac.uk**](chin.tsai@warwick.ac.uk)
+- :open_book: I am studying my masters in Statistics at the University of Chicago
+- :desktop_computer: My interests are in machine learning, neural computing and bioinformatics!
+- :email: You can contact me at [**chinhowe@uchicago.edu**](chinhowe@uchicago.edu)
 ---
 ### My GitHub Statistics
 ![Chin Howe's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gyro007&layout=compact&theme=tokyonight)
